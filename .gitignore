@@ -1,8 +1,8 @@
 ### Node ###
-berks-server/dist
-berks-server/node_modules
-berks-web/.next
-berks-web/node_modules
+/berks-server/dist
+/berks-server/node_modules
+/berks-web/.next
+/berks-web/node_modules
 
 # Logs
 logs
